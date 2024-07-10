@@ -20,4 +20,4 @@ hey, my name is João Pedro, I'm 16 years old, and I've been getting deeper and 
 ## 📊・GitHub Stats
 [![devjootx GitHub stats](https://github-readme-stats.vercel.app/api?username=devjootax&show_icons=true&count_private=true&locale=pt-br&include_all_commits=true&theme=github_dark&hide_border=true)](https://github.com/devjootax)
 <br />
-[![joota-js Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jootax&layout=compact&locale=pt-br&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/devjootax)
+[![joota-js Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=devjootax&layout=compact&locale=pt-br&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/devjootax)
